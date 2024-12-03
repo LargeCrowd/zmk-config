@@ -48,8 +48,8 @@ Additionally, this repository contains alternative configurations meant to be us
 
 ## TOTEM
 
-- [TOTEM](https://github.com/eigatech/zmk-config/tree/totem)
-- [TOTEM Dongle](https://github.com/eigatech/zmk-config/tree/totem-dongle)
+- [TOTEM](https://github.com/LargeCrowd/zmk-config/tree/totem)
+- [TOTEM Dongle](https://github.com/LargeCrowd/zmk-config/tree/totem-dongle)
 
 ## Dongle Flashing
 
