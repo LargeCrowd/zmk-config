@@ -1,20 +1,13 @@
 # eiga's zmk-config
 
-Refer to the original repository [here](https://github.com/eigatech/zmk-config).
-
-## Table of contents
-
-Branches  
-
-- [TOTEM](#totem)
-- [Dongle Flashing](#dongle-flashing)
-- [ZMK Keymap Editor](#zmk-keymap-editor)
-
 ## Hello
 
-This is my fork of Eigatech's zmk config for the [TOTEM keyboard](https).
+This is my fork of Eigatech's zmk config for GEIGEIGEIST's [TOTEM keyboard](https://github.com/GEIGEIGEIST/TOTEM).
 
-[Here](https://www.youtube.com/watch?v=YwsutNf1WRA&list=PL1E2ddJCbc13DvCGYXX9jVVX1BqNGKE5D&index=2) is the link to the reference video.
+Refer to Eigatech's original zmk-config repository [here](https://github.com/eigatech/zmk-config).  
+
+[Here](https://www.youtube.com/watch?v=YwsutNf1WRA&list=PL1E2ddJCbc13DvCGYXX9jVVX1BqNGKE5D&index=2) is the link to
+Eigatech's reference video.
 
 This repository hosts the zmk-config as seen in the YouTube video linked above.
 
@@ -24,7 +17,15 @@ instructions on using an extra microcontroller as a dongle.
 > [NOTE]  
 > These configurations are meant to be used with builds that are identical to the ones featured in the videos, otherwise they should be used as reference only.
 
+## Table of contents
+
+- [TOTEM](#totem)
+- [Dongle Flashing](#dongle-flashing)
+- [ZMK Keymap Editor](#zmk-keymap-editor)
+
 ## TOTEM
+
+Switch to these branches for the respective configs
 
 - [TOTEM](https://github.com/LargeCrowd/zmk-config/tree/totem)
 - [TOTEM Dongle](https://github.com/LargeCrowd/zmk-config/tree/totem-dongle)
